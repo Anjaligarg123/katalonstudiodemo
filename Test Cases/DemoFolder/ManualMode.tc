@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61c2aefb-b148-45a9-acd4-5c8671c2059d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6b3e7f1-1436-4830-af12-90bf4540eabd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'garg'</defaultValue>
+      <description></description>
+      <id>e6b3e7f1-1436-4830-af12-90bf4540eabd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

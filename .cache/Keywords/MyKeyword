@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D5F02D3C2CCFCD311278EA65643BF52B",
+  "keywordClasses": [
+    {
+      "name": "MyKeyword",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
